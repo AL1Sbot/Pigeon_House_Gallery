@@ -167,7 +167,7 @@ function init(){
             );
             LR.images[i].$thumbnailImg.attr(
                 "src",
-                "images/thumbnails/" + LR.images[i].exportFilename + ".jpg"
+                "https://cdn.jsdelivr.net/gh/gujin-like/Pigeon_House_Gallery@main/images/thumbnails/" + LR.images[i].exportFilename + ".jpg"
             );
             _$lastLoadedThumb = LR.images[i].$thumbnailImg;
             _lastLoadedThumbIndex = LR.images[i].index;
@@ -207,7 +207,7 @@ function init(){
             );
             LR.images[i].$thumbnailImg.attr(
                 "src",
-                "images/thumbnails/" + LR.images[i].exportFilename + ".jpg"
+                "https://cdn.jsdelivr.net/gh/gujin-like/Pigeon_House_Gallery@main/images/thumbnails/" + LR.images[i].exportFilename + ".jpg"
             );
             _lastLoadedThumbIndex = LR.images[i].index;
         }
@@ -258,7 +258,7 @@ function init(){
         );
         LR.images[0].$thumbnailImg.attr(
             "src",
-            "images/thumbnails/" + LR.images[0].exportFilename + ".jpg"
+            "https://cdn.jsdelivr.net/gh/gujin-like/Pigeon_House_Gallery@main/images/thumbnails/" + LR.images[0].exportFilename + ".jpg"
         );
         _$lastLoadedThumb = LR.images[0].$thumbnailImg;
         _lastLoadedThumbIndex = LR.images[0].index;
@@ -289,7 +289,7 @@ function init(){
             );
             LR.images[i].$thumbnailImg.attr(
                 "src",
-                "images/thumbnails/" + LR.images[i].exportFilename + ".jpg"
+                "https://cdn.jsdelivr.net/gh/gujin-like/Pigeon_House_Gallery@main/images/thumbnails/" + LR.images[i].exportFilename + ".jpg"
             );
             _$lastLoadedThumb = LR.images[i].$thumbnailImg;
             _lastLoadedThumbIndex = LR.images[i].index;
@@ -401,7 +401,7 @@ function init(){
             );
             LR.images[i].$thumbnailImg.attr(
                 "src",
-                "images/thumbnails/" + LR.images[i].exportFilename + ".jpg"
+                "https://cdn.jsdelivr.net/gh/gujin-like/Pigeon_House_Gallery@main/images/thumbnails/" + LR.images[i].exportFilename + ".jpg"
             );
             _$lastLoadedThumb = LR.images[i].$thumbnailImg;
             _lastLoadedThumbIndex = LR.images[i].index;
